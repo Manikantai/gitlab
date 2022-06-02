@@ -1,4 +1,4 @@
-# gitlab
+# gitlab-ci Build & Push Docker images to AWS_ECR
 
 Gitlab CI:Build & Push Docker Images to AWS ECR
 
